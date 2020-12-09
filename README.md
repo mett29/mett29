@@ -2,7 +2,6 @@
 
 I'm a MSc student at Politecnico di Milano in Computer Science and Engineering, currently doing my thesis on RL.
 
-[![mett29's github stats](https://github-readme-stats.vercel.app/api?username=mett29&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/mett29/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mett29&layout=compact&theme=gruvbox)](https://github.com/mett29/github-readme-stats)
 
 ---
